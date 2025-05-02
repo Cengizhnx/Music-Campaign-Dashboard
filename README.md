@@ -32,7 +32,7 @@ A modern and responsive admin panel for managing music marketing campaigns. Buil
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/music-campaign-dashboard.git
+git clone https://github.com/Cengizhnx/Music-Campaign-Dashboard
 cd music-campaign-dashboard
 npm install
 ```
@@ -62,7 +62,7 @@ npx drizzle-kit push     # Push schema to database
 
 ## 🌐 Live Demo
 
-🔗 https://your-vercel-link.vercel.app/
+🔗 https://music-campaign-dashboard.vercel.app
 
 > You can easily deploy this project on [vercel.com](https://vercel.com/).
 
