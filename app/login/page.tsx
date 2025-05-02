@@ -39,7 +39,7 @@ export default function LoginPage() {
               htmlFor="email"
               className="block text-sm/6 font-medium text-gray-900"
             >
-              Email address
+              E-mail
             </label>
             <div className="mt-2">
               <input

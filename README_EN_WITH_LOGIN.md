@@ -43,7 +43,7 @@ Password: 123456
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Cengizhnx/Music-Campaign-Dashboard
+git clone https://github.com/your-username/music-campaign-dashboard.git
 cd music-campaign-dashboard
 npm install
 ```
@@ -73,9 +73,18 @@ npx drizzle-kit push     # Push schema to database
 
 ## 🌐 Live Demo
 
-🔗 https://music-campaign-dashboard.vercel.app
+🔗 https://your-vercel-link.vercel.app/
 
 > You can easily deploy this project on [vercel.com](https://vercel.com/).
+
+---
+
+## 🤝 Contribution
+
+This project was built based on a test case specification PDF.  
+It follows a clean, modular architecture and modern full-stack best practices.
+
+> Guidance and support provided via [ChatGPT](https://chat.openai.com/).
 
 ---
 
